@@ -1,2 +1,3 @@
-# Primeiro Repositorio
- Primeiro repositório do curso de Git e GitHub
+# Olá pessoal!
+ Esse é o meu primeiro repositório, do curso de Git e GitHub!
+ vamos para cima...
